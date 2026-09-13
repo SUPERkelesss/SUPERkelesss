@@ -22,9 +22,10 @@ Hi, I'm **kelesss**, a chemistry student at PKU who enjoys building at the bound
 <table>
 <tr>
 <td width="50%" valign="top">
+
 ### 🧊 [Krystals](https://github.com/SUPERkelesss/Krystals)
 
-A lightweight Android CIF crystal viewer and editor — bringing crystal structures from files to an interactive, mobile workspace.
+A lightweight Android CIF crystal viewer and editor.
 
 `Kotlin` `Android` `C/C++` `Crystallography`
 
@@ -33,7 +34,7 @@ A lightweight Android CIF crystal viewer and editor — bringing crystal structu
 
 ### ✍️ [Typora LaTeX Suite](https://github.com/SUPERkelesss/Typora-Latex-Suite)
 
-A LaTeX productivity plugin for Typora, focused on smooth inline-math editing, snippets, tab stops, and fast scientific writing.
+A LaTeX productivity plugin for Typora, focused on smooth math editing and fast scientific writing.
 
 `JavaScript` `LaTeX` `Typora` `Productivity`
 
@@ -44,7 +45,7 @@ A LaTeX productivity plugin for Typora, focused on smooth inline-math editing, s
 
 ### 🌌 [kelesss.art](https://github.com/SUPERkelesss/kelesss.art)
 
-My evolving knowledge base for chemistry, mathematics, physics, computer science, and everything learned along the way.
+My evolving knowledge base for chemistry, physics, and everything learned along the way.
 
 `Python` `MkDocs` `Knowledge Base` `Open Notes`
 
@@ -64,6 +65,7 @@ A tiny ML-based reaction predictor.
 ## Toolbox / 工具箱
 
 <div align="center">
+
 [![Core tools](https://skillicons.dev/icons?i=python,c,cpp,js,git,linux,powershell,bash,vscode&perline=10)](https://skillicons.dev)
 
 ![RDKit](https://img.shields.io/badge/RDKit-Molecular_Informatics-2563EB?style=flat-square)
@@ -89,15 +91,13 @@ A tiny ML-based reaction predictor.
   <img height="170" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=SUPERkelesss&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" />
 </picture>
 
-[![GitHub streak](https://streak-stats.demolab.com?user=SUPERkelesss&theme=transparent&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED)](https://git.io/streak-stats)
-
 </div>
 
 <div align="center">
 
 ### Thanks for stopping by ✨
 
-If chemistry, scientific software, or research tooling is also your thing, feel free to explore the projects above.
+If chemistry is also your thing, feel free to explore the projects above.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,45:312E81,100:7C3AED)
 
